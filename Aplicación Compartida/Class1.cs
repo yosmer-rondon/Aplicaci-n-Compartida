@@ -8,5 +8,6 @@ namespace Aplicación_Compartida
 {
     class Class1
     {
+        public int a;
     }
 }
